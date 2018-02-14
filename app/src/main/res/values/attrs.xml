@@ -1,0 +1,34 @@
+<resources>
+    <declare-styleable name="ValueBar">
+        <attr name="barHeight" format="dimension" />
+        <attr name="circleRadius" format="dimension" />
+        <attr name="spaceAfterBar" format="dimension" />
+        <attr name="circleTextSize" format="dimension" />
+        <attr name="maxValueTextSize" format="dimension" />
+        <attr name="labelTextSize" format="dimension" />
+        <attr name="labelTextColor" format="color" />
+        <attr name="maxValueTextColor" format="color" />
+        <attr name="circleTextColor" format="color" />
+        <attr name="baseColor" format="color" />
+        <attr name="fillColor" format="color" />
+        <attr name="labelText" format="string" />
+
+        <attr name="logosrc" format="reference"/>
+
+        <attr name="logoHeight" format="dimension"/>
+
+        <attr name="logoWidth" format="dimension"/>
+
+        <attr name="spaceBetweenLogoAndBar"  format="dimension"/>
+
+        <attr name="barWidth"  format="dimension"/>
+
+        <attr name="spaceBetweenBarAndBottom"  format="dimension"/>
+        <attr name="duration"  format="integer"/>
+
+
+
+
+
+    </declare-styleable>
+</resources>
